@@ -1,0 +1,13 @@
+---
+title: "Robust and Fine-tuning-free Instance Attribution for Interpretable NLP"
+collection: publications
+link: 'https://openreview.net/forum?id=I2mIxuXA72'
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2024-07-21
+venue: 'ICML'
+authors: 'Jingtan Wang*, Xiaoqiang Lin*, <u>Rui Qiao</u>*, Chuan-Sheng Foo, Bryan Kian Hsiang Low'
+paperurl: ''
+citation: 'N/A'
+---
+
+<!-- [Download paper here](https://openreview.net/pdf?id=I2mIxuXA72) -->

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiao Rui"
+title                    : "Qiao Rui 乔锐"
 title_separator          : "-"
 name                     : &name "Qiao Rui"
 description              : &description "Phd Student in Machine Learning"

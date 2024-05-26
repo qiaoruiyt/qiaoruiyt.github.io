@@ -45,5 +45,6 @@ Teaching
   
 Academic Services
 ======
+* Reviewer for NeurIPS 2024.
 * Reviewer for ICML 2024.
 * Reviewer for AISTATS 2023.
