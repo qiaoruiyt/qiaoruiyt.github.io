@@ -1,7 +1,7 @@
 ---
 title: "Cross-Domain Feature Augmentation for Domain Generalization"
 collection: publications
-link: 'https://openreview.net/forum?id=I2mIxuXA72'
+link: 'https://arxiv.org/abs/2405.08586'
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-05-14
 venue: 'IJCAI'

@@ -1,7 +1,7 @@
 ---
 title: "Robust and Fine-tuning-free Instance Attribution for Interpretable NLP"
 collection: publications
-link: 'https://openreview.net/forum?id=I2mIxuXA72'
+link: ''
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-07-21
 venue: 'ICML'
