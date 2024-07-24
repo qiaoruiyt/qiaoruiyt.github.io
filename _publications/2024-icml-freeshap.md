@@ -1,7 +1,7 @@
 ---
 title: "Helpful or Harmful Data? Fine-tuning-free Shapley Attribution for Explaining Language Model Predictions"
 collection: publications
-link: ''
+link: 'https://openreview.net/forum?id=WSpPC1Jm0p'
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-07-21
 venue: 'ICML'
