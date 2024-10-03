@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in machine learning at National University of Singapore (NUS), advised by Prof [Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/research.html) and supported by AI Singapore (AISG) PhD Fellowship. My research interests include machine learning generalization (distribution shift, data-centric AI, interpretability, causality) and natural language processing. 
+I am a PhD student in the School of Computing at the [National University of Singapore](https://www.comp.nus.edu.sg/), advised by [Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/index.html) and supported by the [AI Singapore PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/). My research interests include machine learning generalization (distribution shift, data-centric AI, interpretability, causality) and natural language processing. 
 
-Before joining NUS, I obtained my Bachelor's degree from Singapore University of Technology and Design (SUTD) and was a research assistant in [STATNLP](https://statnlp-research.github.io/) group, advised by Prof [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei/). 
+Currently, I am fortunate to be a visiting scholar in the Paul G. Allen School of Computer Science & Engineering at the [University of Washington](https://www.cs.washington.edu/), advised by [Pang Wei Koh](https://koh.pw/).
+
+I obtained my Bachelor's degree from [Singapore University of Technology and Design](https://istd.sutd.edu.sg/) and was a research assistant in the [STATNLP](https://statnlp-research.github.io/) group, advised by [Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei/). 
