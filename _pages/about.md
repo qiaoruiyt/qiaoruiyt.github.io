@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student in the School of Computing at the [National University of Singapore](https://www.comp.nus.edu.sg/), advised by [Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/index.html) and supported by the [AI Singapore PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/). My research interests include machine learning generalization (distribution shift, data-centric AI, interpretability, causality) and natural language processing. 
+I am a PhD student in the School of Computing at the [National University of Singapore](https://www.comp.nus.edu.sg/), advised by [Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/~lowkh/index.html) and supported by the [AI Singapore PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/). 
+My research focuses on reliable and trustworthy machine learning using data-centric approaches, such as data reweighting, data attribution, and retrieval augmented generation. 
 
 Currently, I am fortunate to be a visiting scholar in the Paul G. Allen School of Computer Science & Engineering at the [University of Washington](https://www.cs.washington.edu/), advised by [Pang Wei Koh](https://koh.pw/).
 
