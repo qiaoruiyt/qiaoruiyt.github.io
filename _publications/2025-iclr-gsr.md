@@ -1,5 +1,5 @@
 ---
-title: "Mitigating Spurious Correlations via Group-robust Sample Reweighting"
+title: "Group-robust Sample Reweighting for Subpopulation Shifts via Influence Functions"
 collection: publications
 link: 'https://openreview.net/forum?id=aQj9Ifxrl6'
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
