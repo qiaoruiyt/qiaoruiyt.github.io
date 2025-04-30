@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiao Rui"
+  name             : "Rui Qiao"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Machine Learning"
-  location         : "National University of Singapore"
+  bio              : "Postdoctoral Associate @ Singapore-MIT Alliance for Research and Technology"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ox5Z9EwAAAAJ&hl=en"
