@@ -45,8 +45,9 @@ Teaching
   
 Academic Services
 ======
-* Reviewer for ICLR 2024.
+* Reviewer for ICLR 2024, 2025.
 * Reviewer for AAAI 2024.
-* Reviewer for NeurIPS 2024.
-* Reviewer for ICML 2024.
+* Reviewer for NeurIPS 2024, 2025.
+* Reviewer for ICML 2024, 2025.
+* Reviewer for TMLR 2025.
 * Reviewer for AISTATS 2023.
